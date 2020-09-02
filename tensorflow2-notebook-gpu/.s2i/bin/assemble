@@ -6,6 +6,8 @@ set -eo pipefail
 
 # Execute original assemble script.
 
+USER root
+
 yum install http://mirror.centos.org/centos/7/os/x86_64/Packages/libXrender-0.9.10-1.el7.x86_64.rpm -y
 yum install http://mirror.centos.org/centos/7/os/x86_64/Packages/mesa-libGL-devel-18.3.4-7.el7.x86_64.rpm -y
 
