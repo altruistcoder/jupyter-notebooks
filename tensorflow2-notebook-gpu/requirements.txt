@@ -33,6 +33,7 @@ patsy==0.5.*
 pillow==5.1.0
 protobuf==3.9.*
 PyYAML==5.3
+s3cmd
 scikit-image==0.15.*
 scikit-learn==0.21.*
 scipy>=1.4.1
@@ -40,6 +41,7 @@ seaborn>=0.10.0
 six==1.14.0
 sqlalchemy==1.3.*
 statsmodels==0.10.*
+subprocess.run
 sympy==1.4.*
 tqdm==4.43.0
 uuid==1.30
