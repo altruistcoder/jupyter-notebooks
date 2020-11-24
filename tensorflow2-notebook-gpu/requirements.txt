@@ -70,7 +70,7 @@ uuid==1.30
 urllib3
 xgboost==0.82
 vincent==0.4.*
-werkzeug==0.14.1
+werkzeug==0.15
 wget>=3.2
 xlrd==1.2.*
 
