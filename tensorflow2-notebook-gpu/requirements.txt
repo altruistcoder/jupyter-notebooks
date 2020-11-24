@@ -2,7 +2,7 @@
 
 # extensions
 
-jupyter-bokeh = "*"
+jupyter-bokeh
 jupyter-tensorboard
 
 ## scipy-notebook
